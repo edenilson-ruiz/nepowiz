@@ -1,7 +1,7 @@
 <?php
 
-use App\Livewire\ListPosts;
-use Illuminate\Support\Facades\Route;
+//use App\Livewire\ListPosts;
+//use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,8 +17,8 @@ use Illuminate\Support\Facades\Route;
 //Route::get('/', function () {
 //    return view('welcome');
 //});
-
-
-Route::get('/', ListPosts::class);
-
-Route::get('products', ListPosts::class);
+//
+//
+//Route::get('/', ListPosts::class);
+//
+//Route::get('products', ListPosts::class);
